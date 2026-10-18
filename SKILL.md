@@ -1,5 +1,7 @@
 ---
 name: pet-asset-pipeline
+displayName: "Pet Asset Pipeline (素材派单/裁决/装机)"
+category: "game-asset"
 slug: pet-asset-pipeline
 description: "End-to-end dispatch to return adjudication to installation pipeline for Cat Mansion / Luna desktop-pet assets. Use when the task involves 'dispatching work to an execution end to produce images or video', 'judging whether a returned asset passes', 'processing video into install-ready frames for the engine', 'packaging an exe'. Built-in dispatch self-check list (including first-frame sharpness red line), adjudication discipline (never re-run the data), installation pipeline, and acceptance baseline."
 agent_created: true
